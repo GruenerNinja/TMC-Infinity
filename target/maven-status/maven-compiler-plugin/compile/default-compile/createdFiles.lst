@@ -1,0 +1,14 @@
+org/tmc/tmc_infinity/PlayerNameFunction.class
+org/tmc/tmc_infinity/ConfigManager.class
+org/tmc/tmc_infinity/TMCInfinity.class
+org/tmc/tmc_infinity/ConfigHandler.class
+org/tmc/tmc_infinity/DcConfig.class
+org/tmc/tmc_infinity/DcTokenConfig.class
+org/tmc/tmc_infinity/BotServerStatusFunction.class
+org/tmc/tmc_infinity/JoinFunction.class
+org/tmc/tmc_infinity/commands/HelloCommand.class
+org/tmc/tmc_infinity/BugneeGetNameFunction.class
+org/tmc/tmc_infinity/DcChannelConfig.class
+org/tmc/tmc_infinity/CommandControl.class
+org/tmc/tmc_infinity/commands/ExampleCommand.class
+org/tmc/tmc_infinity/commands/DcCommand.class
